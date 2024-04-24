@@ -24,5 +24,5 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Author
 
-- Website - [Sarthak Baurai](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Sarthak Baurai](https://github.com/comm-cod/frondEnd-mentor.io/tree/master/product-preview-card-component-main)
+- Frontend Mentor - [@comm-cod](https://www.frontendmentor.io/profile/comm-cod)
